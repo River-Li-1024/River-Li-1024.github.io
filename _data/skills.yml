@@ -1,19 +1,30 @@
-- name: Software Engineer Keywords
+- name: Programmer
   keywords:
+      - C/C++
       - Java
-      - C++
-      - Python
-      - Design Patterns
+      - Video Game
+      - Graphic Rendering
+      - Unity
+      - Algorithm
+      - Operating System
+      - Network
 
-- name: Mobile Developer Keywords
+- name: Manager
   keywords:
-      - Android
-      - Reverse Engineering
+      - Leadership
+      - Process Management
+      - Technical Judgment
+      - Identify Risks
 
-- name: Windows Developer Keywords
+- name: English
   keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
+      - Reading
+      - Verbal
+      - CET-6
+
+- name: Characteristics
+  keywords:
+      - Diligent
+      - Sincere
+      - Hard-working
+
