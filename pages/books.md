@@ -13,7 +13,8 @@ permalink: /books/
 <ul class="listing">
 {% for book in site.books %}
 {% if book.title != "Book Template" %}
-<li class="listing-item"><a href="{{ site.url }}{{ proj.url }}">{{ book.title }}</a></li>
+<li class="listing-item"><a href="{{ site.url }}{{ book.url }}">{{ book.title }}</a></li>
 {% endif %}
 {% endfor %}
+
 </ul>
