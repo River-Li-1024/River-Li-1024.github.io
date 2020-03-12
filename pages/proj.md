@@ -2,9 +2,9 @@
 layout: page
 title: Proj
 description: 人越学越觉得自己无知
-keywords: 维基, Proj
+keywords: 项目, Proj
 comments: false
-menu: 维基
+menu: 项目
 permalink: /proj/
 ---
 

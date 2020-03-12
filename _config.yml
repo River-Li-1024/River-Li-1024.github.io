@@ -5,7 +5,7 @@ baseurl:
 url: https://river-li-1024.github.io
 date_format: "ordinal"
 title: 李小江(River)
-subtitle: "李小江(River)的博客/文章"
+subtitle: "编程的艺术就是处理复杂性的艺术——Edsger Dijkstra"
 description: "Site for representing personal skills and thinkings."
 keywords: River, Programmer, Online Video Game
 timezone: Asia/Beijing
@@ -18,7 +18,7 @@ side_bar_repo_limit: 5
 author: 李小江(River)
 organization: 
 organization_url: 
-github_username: River.Li
+github_username: River_Li_1024
 location: Beijing, China
 email: john.lee.ncist@gmail.com
 
