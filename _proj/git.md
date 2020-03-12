@@ -1,5 +1,5 @@
 ---
-layout: wiki
+layout: proj
 title: Git
 categories: Git
 description: Git 常用操作记录。

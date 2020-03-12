@@ -4,8 +4,8 @@
 baseurl:
 url: https://river-li-1024.github.io
 date_format: "ordinal"
-title: River
-subtitle: "River's Pages"
+title: 李小江(River)
+subtitle: "李小江(River)的博客/文章"
 description: "Site for representing personal skills and thinkings."
 keywords: River, Programmer, Online Video Game
 timezone: Asia/Beijing
@@ -15,10 +15,10 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: River
+author: 李小江(River)
 organization: 
 organization_url: 
-github_username: River_Li_1024
+github_username: River.Li
 location: Beijing, China
 email: john.lee.ncist@gmail.com
 
@@ -39,8 +39,8 @@ navs:
 #     label: 归档
 
   -
-    href: /wiki/
-    label: 维基
+    href: /proj/
+    label: 项目
 
   -
     href: /links/
