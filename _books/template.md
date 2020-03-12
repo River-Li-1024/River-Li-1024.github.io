@@ -1,6 +1,6 @@
 ---
-layout: proj
-title: Proj Template
+layout: book
+title: Book Template
 categories: [cate1, cate2]
 description: some word here
 keywords: keyword1, keyword2

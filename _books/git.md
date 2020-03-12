@@ -1,5 +1,5 @@
 ---
-layout: proj
+layout: book
 title: Git
 categories: Git
 description: Git 常用操作记录。

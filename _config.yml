@@ -5,7 +5,7 @@ baseurl:
 url: https://river-li-1024.github.io
 date_format: "ordinal"
 title: 李小江(River)
-subtitle: "李小江(River)的博客/文章"
+subtitle: "编程的艺术就是处理复杂性的艺术——Edsger Dijkstra"
 description: "Site for representing personal skills and thinkings."
 keywords: River, Programmer, Online Video Game
 timezone: Asia/Beijing
@@ -39,8 +39,8 @@ navs:
 #     label: 归档
 
   -
-    href: /proj/
-    label: 项目
+    href: /books/
+    label: 读书
 
   -
     href: /links/
@@ -77,9 +77,9 @@ gems:
     - jemoji
 #     - jekyll-mentions
 collections:
-    wiki:
+    books:
         output: true
-        permalink: /wiki/:path/
+        permalink: /books/:path/
 
 repository: River_Li_1024/River_Li_1024.github.io
 
