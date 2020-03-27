@@ -21,7 +21,7 @@
                 </li>
                 {% endfor %}
                 <li>
-                    <a href="{{ site.lang_url }}" title="{{ site.lang_label }}" target="{{ site.target | default: _self }}">{{ site.lang_label }}</a>
+                    <a href="{{ site.lang_url }}" title="{{ site.lang_label }}" target="{{ site.lang_target | default: _self }}">{{ site.lang_label }}</a>
                 </li>
                 <li><a href="{{ site.url }}{{ site.subscribe_rss }}"><span class="octicon octicon-rss" style="color:orange;"></span></a></li>
             </ul>

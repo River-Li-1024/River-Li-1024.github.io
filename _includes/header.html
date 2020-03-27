@@ -83,6 +83,7 @@
                 {% for nav in site.navs %}
                 <a href="{{ site.url }}{{ nav.href }}" class="{% if page.menu == nav.label %} selected {% endif %} site-header-nav-item" target="{{ nav.target | default: _self }}" title="{{ nav.label }}">{{ nav.label }}</a>
                 {% endfor %}
+                <a href="{{ site.lang_url }}" target="{{ site.lang_target | default: _self }}" title="{{ site.lang_label }}">{{ site.lang_label }}</a>
             </nav>
         </div>
     </header>
