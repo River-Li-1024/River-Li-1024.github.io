@@ -50,6 +50,10 @@ navs:
     href: /about/
     label: 关于
 
+  -
+    dref: https://river-li-1024-en.github.io
+    label: English
+
 # ---------------- #
 #       RSS        #
 # ---------------- #
