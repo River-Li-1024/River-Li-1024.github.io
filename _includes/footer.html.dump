@@ -1,7 +1,7 @@
     <footer class="container">
         <div class="site-footer" role="contentinfo">
             <div class="copyright left mobile-block">
-                    © 2015
+                    漏 2015
                     <span title="{{ site.author}}">{{ site.author }}</span>
                     <a href="javascript:window.scrollTo(0,0)" class="right mobile-visible">TOP</a>
             </div>
@@ -31,7 +31,7 @@
         </div>
     </footer>
     <div class="tools-wrapper">
-      <a class="gotop" href="#" title="回到顶部"><span class="octicon octicon-arrow-up"></span></a>
+      <a class="gotop" href="#" title="鍥炲埌椤堕儴"><span class="octicon octicon-arrow-up"></span></a>
     </div>
     <!-- / footer -->
     <script src="{{ site.url }}/assets/vendor/share.js/dist/js/share.min.js"></script>

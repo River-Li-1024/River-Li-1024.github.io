@@ -23,6 +23,13 @@ location: Beijing, China
 email: john.lee.ncist@gmail.com
 
 # ---------------- #
+#      Language    #
+# ---------------- #
+lang_label: English
+lang_target:
+lang_url: https://river-li-1024-en.github.io
+
+# ---------------- #
 #    Navigation    #
 # ---------------- #
 navs:
@@ -49,10 +56,6 @@ navs:
   -
     href: /about/
     label: 关于
-
-  -
-    dref: https://river-li-1024-en.github.io
-    label: English
 
 # ---------------- #
 #       RSS        #
